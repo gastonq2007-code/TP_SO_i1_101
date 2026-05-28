@@ -16,5 +16,6 @@ d-¿De qué forma se comunicaron ustedes?
 por discord
 
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+a través de los commit y los ítems creados en el proyect
 
 
